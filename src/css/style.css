@@ -1,0 +1,22 @@
+.bg-airbnb {
+    background-color: #ff5a5f;
+}
+
+.navbar-principal {
+    padding-right: 3%;
+}
+
+.card-item {
+    padding: 10px;
+}
+
+.about-me {
+    background-color: white;
+    box-shadow: black;
+    border-radius: 5%;
+    padding: 10px;
+}
+
+.about-me-img {
+    border-radius: 50%;
+}
